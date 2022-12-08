@@ -1,16 +1,4 @@
 # powerBall
-# Autor Zemene Abinet Jemere
-#My first powerball project
-Description
-Anyone playing the lottery can be carried away with fantasies about unspeakable riches and ways of spending it unspeakably fast. From a data point of view, looking into the numbers can be a fun project to practice some of the tools you have under your belt, and can actually lead to interesting experiments.
-
-Can you predict lottery numbers? Assuming the drawings are indeed random the answer is no. Can you expect certain numbers to pop up in the future? Well, not really.
-
-Given a large enough sample size — according to the law of large numbers — all you can expect is that the average value of the numbers drawn is going to be very close to the expected value.
-
-Looking into what happened in the past could be still fun — if you want to choose your next winning combination, well, go ahead, build a hypothesis and find your favourites.
-To do this project I have faced a lot of problems. For example I have faced to change the list of elements in to string listed style number, and the other challange was making an inheritance between two classes .
-
 
 Python Programming Project
 Powerball
