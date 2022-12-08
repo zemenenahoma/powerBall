@@ -1,4 +1,5 @@
 from colorama import init, Fore, Style
+
 from  utilts import  *
 
 init()
@@ -25,7 +26,7 @@ class MainAction(TodayWin):
         #
         goldNum = random.randint(1, 10)
 
-        print(f" today's lucky numbers are: {blue} {tody_num} {yellow} {goldNum}")
+        print(f" today's lucky numbers are: {blue}  {tody_num} {yellow} {goldNum}")
         print(f"your lucky numbers are :{blue} {lucky_num} {yellow} {powerBall} ")
 
         if powerBall == goldNum and res == 0:
