@@ -1,7 +1,10 @@
 # powerBall
-
-Python Programming Project
-Powerball
+#Autor Zemene Abinet Jemere
+#Python Programming Project
+My first powerball project Description Anyone playing the lottery can be carried away with fantasies about unspeakable
+riches and ways of spending it unspeakably fast. From a data point of view,
+looking into the numbers can be a fun project to practice some of the tools you have under your belt, and can actually lead to
+interesting experiments
 General Instructions: 
 •	Your assignment should be a Python program
 •	Your assignment will use what we have learned so far (e.g. conditional statements, array, array built-in functions, and loop). 
